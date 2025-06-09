@@ -23,4 +23,4 @@ spec:
           #          value: "1"
     path: v03-argocd-applications/helm/nginx
     repoURL: https://github.com/PrasadGattewar/ArgoCD-Projects.git
-    targetRevision: main
+    targetRevision: master
